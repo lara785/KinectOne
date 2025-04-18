@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Microsoft.Kinect/2.0.1410.19000": {
+        "runtime": {
+          "lib/net45/Microsoft.Kinect.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.1410.19000"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Kinect/2.0.1410.19000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DrmYR/q4Ne49LFluomcxwuiCDq6Gw2xgQqLXYUGCRVkzF/fEaNFy+OfdH6lSWTX32VFbuDueDph9E865bvq4oQ==",
+      "path": "microsoft.kinect/2.0.1410.19000",
+      "hashPath": "microsoft.kinect.2.0.1410.19000.nupkg.sha512"
+    }
+  }
+}

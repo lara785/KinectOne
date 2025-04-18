@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOzNF6Melfg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SleepDeprivedLoon\\source\\repos\\kinectOne\\kinectOne\\kinectOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SleepDeprivedLoon\\.nuget\\packages\\microsoft.kinect\\2.0.1410.19000\\microsoft.kinect.2.0.1410.19000.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.Kinect 2.0.1410.19000' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.Kinect",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
